@@ -13,6 +13,7 @@ Vai ter uma pagina de entrada, onde vai ter a entrada do estoque ( o funcionári
 
 
 //Admin
+
 Vai ter uma pagina para controle de funcionários ( so a admin vai ter acesso ).
 
 Vai ter uma pagina para adicionar/remover produtos ( so o admin vai ter acesso ).
